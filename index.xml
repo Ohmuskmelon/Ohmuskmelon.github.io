@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Ohmuskmelon’s Personal Site</title>
+        <link>https://ohmuskmelon.github.io/</link>
+        <description>Recent content on Ohmuskmelon’s Personal Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ohmuskmelon.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello</title>
+        <link>https://ohmuskmelon.github.io/post/hello/</link>
+        <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ohmuskmelon.github.io/post/hello/</guid>
+        <description>&lt;img src="https://ohmuskmelon.github.io/post/hello/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Hello" /&gt;&lt;p&gt;首先，很开心你能够浏览我的个人主页，因为时间紧凑（万恶的数学建模国赛），我没办法更新很多内容，现在只能附上一点我的基本个人信息。以下是我的自我介绍，相信你看完这篇文章会稍微了解我一点。&lt;/p&gt;
+&lt;p&gt;网站侧边栏有我的 Github 链接，大家可以点击查看（虽然什么东西都没有）&lt;/p&gt;
+&lt;p&gt;点击左侧 Archives 可以浏览全部文章，可以根据种类查找（截止目前为止只有一个种类。。。）也可以进行文章的搜索&lt;/p&gt;
+&lt;p&gt;网站使用 &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; 搭建，主题采用了 &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stack&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;自我介绍&#34;&gt;自我介绍&lt;/h2&gt;
+&lt;p&gt;我叫陈晓宇，来自计算机01班，属于计算机应用方向。我是一个比较佛系的人，过去的二十几年一直都秉持着“够用就好”的原则随心所欲地活着，这篇文章我也是在临近ddl才打开电脑随便写写，大家也随便看看就好。&lt;/p&gt;
+&lt;h3 id=&#34;兴趣爱好&#34;&gt;兴趣爱好&lt;/h3&gt;
+&lt;p&gt;其实我应该是个误入理科院校的艺术生，对于许多艺术方面都感兴趣但是从未认真学习过。我喜欢摄影、绘画、创作视频以及写文字，不过在这些方面都是小打小闹，没有什么很实质的产出，未来应该还是会利用自己的空闲时间去完成一些自己的梦想。&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;初中蹭学校的素描班学素描学了一年，最后学成这个鬼样子，但是还算是给我留下一点点绘画的基础吧，可能以后还会进一步学习。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmuskmelon.github.io/IMG_0200.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;也很喜欢视频创作，虽然目前为止唯一一个比较有用的产出就是帮毛概老师剪了一个课堂使用的采访视频，老师表示将会把我的视频一直流传下去（感谢老师）&lt;/p&gt;
+&lt;p&gt;平时比较喜欢听一些独立音乐，当然我听的比较杂什么都听，只不过最偏爱独立摇滚。在听音乐这方面上很难和他人有共同话题，但是如果有人找我推荐音乐的话我还是很开心的^ - ^ 最喜欢的乐队是Arcade Fire，以下是我最喜欢的九张专辑。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmuskmelon.github.io/IMG_5471.JPG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;最喜欢的专辑&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;很喜欢看《老友记》，日常吃饭就是把《老友记》打开边看边吃，十季翻来覆去看了有七八遍了吧，已经把很多台词都记在心里了，坏处就是看不进去其他任何情景喜剧。网站的头像就是里面的其中一个角色 Joey。&lt;/p&gt;
+&lt;p&gt;目前有在健身，但是我健身的功利性非常强，谈不上是个兴趣爱好，只是想把身材变好看而已&lt;/p&gt;
+&lt;h2 id=&#34;自我评估&#34;&gt;自我评估&lt;/h2&gt;
+&lt;h3 id=&#34;已经具备的技术能力&#34;&gt;已经具备的技术/能力&lt;/h3&gt;
+&lt;p&gt;其实上大学以来我一直按部就班照着课程安排学习，所以严格来说我掌握良好的能力/技术只局限于学校开设过的课程，比不上很多人手握很多技术。我一直都秉持着“插件式学习”的想法，将来需要用什么技术的时候我自己会去学的，所以我现在也不是很有“技术焦虑”，简单列一下我认为我已经掌握的能力：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;C/C++/Swift/汇编语言&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于语言这种东西应该很难有人说“精通”吧，我也只是了解了这些语言的基本语法和特性，日后如果需要用到这些我一定会好好把那几本经典的书好好读一下，目前来说我只是掌握了这几门语言的基本语法和特性，离真正拿来干活吃饭还是有一定的距离。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;算法与数据结构&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当然比不上ACM的同学，但是是我学的比较用心的一门课程，把清华大学邓俊辉老师的课程看了很多遍，在日常中会用上算法/数据结构的知识，对我来说已经很不错了，未来打算好好刷一刷leetcode，希望不让DSA成为我的绊脚石&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;其他计算机专业课&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数字逻辑、计算机组成原理、计算机网络……这些专业课我想以我现在的掌握程度应该只能说了解皮毛吧，放在“技能”这一块实在很惭愧，但是这也为我日后在某方面的继续深造打下基础。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;一些其他的小技能&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;掌握一些小小的技能，虽然很没用就是了……譬如知道怎么使用Git（花一小时学习的事情），怎么用Markdown（花五分钟学习的事情），会一点点CSS（用来自己做 Typora 的主题）等等&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;我感兴趣的技术方向&#34;&gt;我感兴趣的技术方向&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;应用/网页开发&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从初中拥有智能手机开始，自己开发 App 就是我一直以来的梦想，目前正在学习相关的知识，希望能早日开发出一款功能完整最好能用“好用”形容的 App。（独立开发者这个title超酷的好吗）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;很酷的智能硬件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;稚辉君就是我的男神，从他的机械臂视频开始我看了他很多视频，也欣赏了他GitHub上的很多项目，希望自己有朝一日也能成为像他那样的全栈工程师&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;我还缺少的能力&#34;&gt;我还缺少的能力&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;没有完整的项目开发经验&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;想要完成一个App，但是目前我还没有过自己写大型项目（也许只能叫做非小型项目）的经历，决定接着这学期软工实践的东风真正实现自己的大项目！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;英语能力不强&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我的英语水平自从高考之后基本没有变化，处在“勉强够用”的尴尬期，词汇量太少，阅读很多文献还是没办法像阅读母语一样舒服，对阅读英语依然有些抵触，所以决定这学期开始好好恶补英语，大量阅读英语小说，希望有一天能克服对英语的恐惧&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;技术储备太少&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;按部就班按照学校的课程读书的后果就是没有任何技术储备，实战经验为0。因为懒没有去实验室什么的导致我现在发现干什么事情都有很多东西没学，有时候还是会很不方便。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;对未来三年的设想&#34;&gt;对未来三年的设想&lt;/h2&gt;
+&lt;p&gt;秉持着“够用就好”的态度我的绩点肯定只能支持我考研啦……暂时没有本科毕业就去工作的想法，目前环境不好，本科生的学历属实不太够用，正好也能借着读研避一避风头。&lt;/p&gt;
+&lt;p&gt;具体三年的规划如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;一、本学期（大三上）认真学习课内课程，积极多学一点技术，搞一些自己感兴趣的有用的项目，不要再0产出了。多刷 leetcode，认真提高英语水平，为明年的考研做准备。搜集考研院校信息，提前确定好想去的学校。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;二、明年（大三下-大四上）努力准备考研，争取一次上岸。具体的考研准备就不细说了，这也是我这学期要好好准备的内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;三、大四下如果有幸可以进入复试的话当然要积极准备复试了，可以预见的是毕业设计也要占用我很多的时间，所以现在谈什么设想似乎过于理想了，能把这两件事搞完我就谢天谢地了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;四、如果成功上岸当然是背着书包快乐地跑去读研究生了，如果失败的话不排除二战的可能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我的自我介绍到此结束，感谢阅读！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Personal Imformation</title>
+        <link>https://ohmuskmelon.github.io/post/personal-imformation/</link>
+        <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ohmuskmelon.github.io/post/personal-imformation/</guid>
+        <description>&lt;img src="https://ohmuskmelon.github.io/post/personal-imformation/luca-bravo-alS7ewQ41M8-unsplash.jpg" alt="Featured image of post Personal Imformation" /&gt;&lt;p&gt;鉴于老师的要求，以下是我的个人信息：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;个人信息&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;姓名&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;陈晓宇&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;学号&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;042003101&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;学院&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;计算机与大数据学院&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;专业&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;计算机科学与技术&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;班级&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1班&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        <item>
+        <title>My Photos</title>
+        <link>https://ohmuskmelon.github.io/post/my-photos/</link>
+        <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ohmuskmelon.github.io/post/my-photos/</guid>
+        <description>&lt;img src="https://ohmuskmelon.github.io/post/my-photos/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post My Photos" /&gt;&lt;p&gt;软件工程的第二周作业要求我必须在个人网站公开我的个人照片，但是本人长得实在不是很好看所以分享一点小时候的照片，我小时候确实有那么一点可爱。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmuskmelon.github.io/IMG_5566.JPG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://ohmuskmelon.github.io/page/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ohmuskmelon.github.io/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://ohmuskmelon.github.io/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://ohmuskmelon.github.io/page/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
